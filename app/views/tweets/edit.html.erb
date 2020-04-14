@@ -1,0 +1,12 @@
+<div class="contents row">
+  <div class="container">
+    <%= form_with(model: @tweet, local: true) do |form| %>
+      <h3>
+        編集する
+      </h3>
+      <%= form.text_field :image, placeholder: "画像 Url" %>
+      <%= form.text_area :text, placeholder: "つぶやき" , rows: "10" %>
+      <%= form.submit "編集を確定" %>
+    <% end %>
+  </div>
+</div>
