@@ -381,6 +381,8 @@ form {
 
 footer {
   @include boxBase;
+  background-image: url(noodle-free.jpg);
+  background-position: bottom;
   color: $gray;
   p {
     text-align: center;
