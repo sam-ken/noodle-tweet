@@ -378,6 +378,24 @@ form {
   }
 }
 
+.side_bar_upper{
+  background-color: snow;
+  border: double;
+  font-size: 30px;
+  position: absolute;
+  top: 180px;
+  left: 65px;
+}
+
+.side_bar_lower{
+  background-color: snow;
+  border: double;
+  font-size: 30px;
+  position: absolute;
+  top: 300px;
+  left: 65px;
+}
+
 footer {
   @include boxBase;
   background-image: url(noodle-free.jpg);
