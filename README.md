@@ -50,7 +50,7 @@ Tweetに大して他ユーザーが『イイね』ができるイイね機能<br
 <br>
 
 # 参考画像
-##ラーメンTweet Top画面<br>
+## ラーメンTweet Top画面<br>
 
 ![ラーメンTweet Top画面](ラーメンTweetトップ画面.jpg)<br>
 
