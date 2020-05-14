@@ -44,7 +44,7 @@ Things you may want to cover:
 <br>
 <br>
 
-# 今後のの拡張予定
+# 今後の拡張予定
 Tweetに大して他ユーザーが『イイね』ができるイイね機能<br>
 <br>
 <br>
