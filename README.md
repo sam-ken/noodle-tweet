@@ -47,7 +47,7 @@ Tweetに大して他ユーザーが『イイね』ができるイイね機能<br
 
 <br>
 
-![ラーメンTweet Top画面](ラーメンTweetトップ画面.jpg)<br>
+![Image from Gyazo](https://i.gyazo.com/b2c616293bfa7aa24ee863548bbec97e.jpg)<br>
 
 <br>
 
@@ -55,7 +55,7 @@ Tweetに大して他ユーザーが『イイね』ができるイイね機能<br
 
 <br>
 
-![ラーメンTweet ログイン画面](ラーメンTweetログイン画像.png)<br>
+![Image from Gyazo](https://i.gyazo.com/c46ff4d7851ef0d6d05d83c53462bc70.png)<br>
 
 <br>
 
@@ -63,6 +63,6 @@ Tweetに大して他ユーザーが『イイね』ができるイイね機能<br
 
 <br>
 
-![ラーメンTweet コメント画面](ラーメンTweetコメント画面.jpg)<br>
+![Image from Gyazo](https://i.gyazo.com/e2ced2b4945b554107252a5ffb026fe1.jpg)<br>
 
 <br>
