@@ -47,7 +47,7 @@ Tweetに大して他ユーザーが『イイね』ができるイイね機能<br
 
 <br>
 
-![Image from Gyazo](https://i.gyazo.com/b2c616293bfa7aa24ee863548bbec97e.jpg)<br>
+![Image from Gyazo](https://i.gyazo.com/d7f3f6a4f1ecb0bc5c087a977c5676f6.jpg)<br>
 
 <br>
 
