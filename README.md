@@ -41,6 +41,10 @@
 
 https://sam-ken-app.herokuapp.com/
 
+ログイン用<br>
+E-mail 000@000<br>
+パスワード 000000 (0が６個)<br>
+
 <br>
 
 # 今後の拡張予定
